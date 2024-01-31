@@ -25,5 +25,3 @@
 [Подсказка]https://github.com/Nikolay4/OlgaGit.git - адрес для клонирования
 
 
-Test
-
